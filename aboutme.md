@@ -4,9 +4,17 @@ title: About me
 subtitle: A climate and machine learning data scientist
 ---
 
-I am a climate data scientist with a strong interest in developing and applying machine learning techniques
-to advance climate models and analysis, understanding links and interactions with other parts of the Earth
-system to address the scientific challenges of global change. 
+I am an AI and climate data scientist at Predictia, specializing in the development and application of machine learning techniques to enhance climate modeling and data analysis. My work focuses on leveraging AI to uncover insights into the interactions between the climate system and other components of the Earth system, addressing the pressing challenges of global change through innovative solutions and predictive analytics. 
+
+---
+Fernando Iglesias-Suarez
+AI-Climate Data Scientist | Predictia
+Phone: (+34) 942 76 44 10
+E-mail: iglesiasf@predictia.es
+Fernando de los Ríos, 48, Bajo
+39006 Santander (Spain)
+[www.predictia.es](https://predictia.es/en)
+---
 
 ### Research and Employment
 - 2024- Climate and Machine Learning Data Scientist, [Predictia, S.L.](https://predictia.es/en), Santander, Spain.
