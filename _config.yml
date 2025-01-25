@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Fernando Iglesias-Suarez
+#title: Fernando Iglesias-Suarez
 
 # Your name to show in the footer
 author: Fernando Iglesias-Suarez
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://figlesua.github.io/"
 
 ################
 # --- Logo --- #
@@ -32,7 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/fernando_iglesias-suarez.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -93,14 +94,15 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
+url-pretty: "https://figlesua.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
