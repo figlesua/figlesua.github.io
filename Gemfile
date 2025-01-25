@@ -4,5 +4,5 @@ source "https://rubygems.org"
 
 gemspec
 
-plugins:
-  - jekyll-sitemap
+# Add the jekyll-sitemap gem
+gem "jekyll-sitemap"
