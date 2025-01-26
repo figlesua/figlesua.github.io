@@ -16,8 +16,8 @@ As an AI and Climate Data Scientist at Predictia, I specialize in developing and
 - 2004 Undergraduate Research Assistant, AIMCRA, Seville, Spain.
 
 #### Education
-- 2017 PhD Atmospheric Science, [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/fernando-iglesias-suarez(a7855411-53e4-4dc0-8e30-4349cef2899a).html), Lancaster, UK. Dissertation: Stratospheric ozone in the Earth system. Supervisors: Dr Paul J. Young and Prof Oliver Wild. [doi:10.17635/lancaster/thesis/308](https://doi.org/10.17635/lancaster/thesis/308)
-- 2011 MSc Climate Change, [University of East Anglia (UEA)](https://www.uea.ac.uk/), Norwich, UK. Dissertation: Investigating geoengineering solutions to meet the 2ºC target. Supervisors: Dr Naomi Vaughan and Prof Timothy Osborn.
+- 2017 PhD Atmospheric Science, [Lancaster University](https://www.research.lancs.ac.uk/portal/en/people/fernando-iglesias-suarez(a7855411-53e4-4dc0-8e30-4349cef2899a).html), Lancaster, UK. Dissertation: [Stratospheric ozone in the Earth system](https://doi.org/10.17635/lancaster/thesis/308). Supervisors: Dr Paul J. Young and Prof Oliver Wild.
+- 2011 MSc Climate Change, [University of East Anglia (UEA)](https://www.uea.ac.uk/), Norwich, UK. Dissertation: [Investigating geoengineering solutions to meet the 2ºC target](https://www.researchgate.net/publication/315365322_Investigating_geoengineering_solutions_to_meet_the_2C_target). Supervisors: Dr Naomi Vaughan and Prof Timothy Osborn.
 - 2004 BSc Environmental Science, [Universidad Pablo de Olavide](https://www.upo.es/portal/impe/web/portada/index.html), Seville, Spain.
 
 ---
