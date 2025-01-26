@@ -18,30 +18,12 @@ cover-img:
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-<body>
-  <header>
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.subtitle }}</p>
-  </header>
 
   <main>
     <section>
       <img src="{{ page.cover-img[0].image }}" alt="Cover Image">
       <figcaption>{{ page.cover-img[0].caption }}</figcaption>
-    </section>
-    
-    <section>
-      <h2>Welcome</h2>
-      <p>Explore my work at the intersection of AI and climate science:</p>
-      <ul>
-        <li><a href="/aboutme.md">About Me</a></li>
-        <li><a href="/publications.md">Papers</a></li>
-      </ul>
-    </section>
+    </section>    
   </main>
 
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} Fernando Iglesias-Suarez</p>
-  </footer>
-</body>
 </html>
