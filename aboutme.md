@@ -4,7 +4,7 @@ title: About me
 subtitle: A climate and machine learning data scientist
 ---
 
-As an AI and Climate Data Scientist at Predictia, I specialize in developing and applying machine learning techniques to advance climate modeling and data analysis. My work focuses on leveraging AI to uncover insights into the interactions between the climate system and other components of the Earth system, addressing the pressing challenges of global change through innovative solutions and predictive analytics. 
+As an AI and Climate Data Scientist at Predictia, I specialize in developing and applying machine learning techniques to advance climate modeling in particular, as well as Earth sciences and data analysis more broadly. My work focuses on leveraging AI to uncover insights into the interactions between the climate system and other components of the Earth system, addressing the pressing challenges of global change through innovative solutions and predictive analytics. 
 
 #### Research and Employment
 - 2024– Climate and AI Data Scientist, [Predictia, S.L.](https://predictia.es/en), Santander, Spain.
