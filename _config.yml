@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-# title: Fernando Iglesias-Suarez
+title: AI-Climate Scientist
 
 # Your name to show in the footer
 author: Fernando Iglesias-Suarez
@@ -74,7 +74,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  bluesky: figlesua
+  bluesky: @figlesua
   ORCID: 0000-0003-3403-8245
   google-scholar: https://scholar.google.com/citations?user=KoTzrskAAAAJ&hl=en&authuser=1
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
